@@ -28,11 +28,14 @@ h3 {
 p.tiny {
   font-size: 14px;
 }
+
+.white {
+  color: white;
+}
 .footer {
   text-align: left;
   background-color: dimgray;
 }
-
 .copyright {
   font-size: 11px;
 }
