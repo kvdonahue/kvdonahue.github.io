@@ -28,12 +28,12 @@ h3 {
 p.tiny {
   font-size: 14px;
 }
-p.footer {
+.footer {
   text-align: left;
   font-size: 11px;
-  
+
 }
-div.dimgray {
+.dimgray {
   background color: dimgray;
 
 }
