@@ -25,13 +25,14 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
+h3.white {
+  color: white;
+}
+
 p.tiny {
   font-size: 14px;
 }
 
-.white {
-  color: white;
-}
 .footer {
   text-align: left;
   background-color: dimgray;
