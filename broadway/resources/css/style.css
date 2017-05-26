@@ -32,6 +32,8 @@ p.white left {
   text-align: left;
   background color: dimgray;
 }
-h4 {
+#tiny-white {
   font-size: 11px;
+  text-align: left;
+  background color: dimgray;
 }
