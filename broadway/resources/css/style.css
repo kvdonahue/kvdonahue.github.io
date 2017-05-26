@@ -30,10 +30,9 @@ p.tiny {
 }
 .footer {
   text-align: left;
-  font-size: 11px;
-
+  background-color: dimgray;
 }
-.dimgray {
-  background color: dimgray;
 
+.copyright {
+  font-size: 11px;
 }
