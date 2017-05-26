@@ -29,11 +29,8 @@ p.tiny {
   font-size: 14px;
 }
 p.white left {
+  color: white;
   text-align: left;
   background color: dimgray;
-}
-#tiny-white {
-  font-size: 11px;
-  text-align: left;
-  background color: dimgray;
+
 }
