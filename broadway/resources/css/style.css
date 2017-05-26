@@ -28,8 +28,9 @@ h3 {
 p.tiny {
   font-size: 14px;
 }
-p.left {
+div.dimgray {
   text-align: left;
+  font-size: 11px;
   background color: dimgray;
 
 }
