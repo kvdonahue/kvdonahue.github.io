@@ -11,6 +11,27 @@ h1 {
   font-weight: bold;
   color: white;
 }
-p.white a{
+a {
   color: white;
+}
+p.white {
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p.tiny {
+  font-size: 14px;
+}
+p.left {
+  text-align: left;
+  background color: dimgray;
+}
+h4 {
+  font-size: 11px;
 }
